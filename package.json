@@ -1,0 +1,16 @@
+{
+  "name": "test-ex-practice",
+  "version": "1.0.0",
+  "description": "Test exercise in which we do practical tests for JavaScript functions using the Jest library.",
+  "main": "stringlength.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
