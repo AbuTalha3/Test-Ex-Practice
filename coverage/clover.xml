@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1689833485440" clover="3.2.0">
-  <project timestamp="1689833485440" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+<coverage generated="1689834949504" clover="3.2.0">
+  <project timestamp="1689834949507" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="9" coveredelements="9" complexity="0" loc="6" ncloc="6" packages="1" files="3" classes="3"/>
+    <file name="capitalize.js" path="D:\microverse projects\Test-Ex-Practice\capitalize.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
     <file name="reversestring.js" path="D:\microverse projects\Test-Ex-Practice\reversestring.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
