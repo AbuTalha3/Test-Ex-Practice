@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1689800140538" clover="3.2.0">
-  <project timestamp="1689800140538" name="All files">
+<coverage generated="1689833485440" clover="3.2.0">
+  <project timestamp="1689833485440" name="All files">
     <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
     <file name="reversestring.js" path="D:\microverse projects\Test-Ex-Practice\reversestring.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
