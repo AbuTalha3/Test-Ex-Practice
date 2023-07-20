@@ -6,6 +6,6 @@ describe('capitalize', () => {
     const output = 'Abutalha';
     const result = capitalize(string);
 
-    expect(result).toBe(utput);
+    expect(result).toBe(output);
   });
 });
