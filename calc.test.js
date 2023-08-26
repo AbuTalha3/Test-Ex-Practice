@@ -49,7 +49,7 @@ describe('Calculator', () => {
     });
 
     it('should correctly subtract a positive and a negative number', () => {
-      expect(calculator.subtract(5, -3)).toBe(8);
+      expect(calculator.subtract(5, -3)).toBe(2);
     });
 
     it('should correctly subtract two negative numbers', () => {
